@@ -23,5 +23,6 @@ I'm currently a full-time student in different programs 😄 but let's just say 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cnnb01&theme=synthwave=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cnnb01&theme=synthwave)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
