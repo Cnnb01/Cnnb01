@@ -20,7 +20,7 @@ I'm currently a full-time student in different programs 😄 but let's just say 
  
 </div>
 
-### fire: My Stats :
+### My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Cnnb01&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
