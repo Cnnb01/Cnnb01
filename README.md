@@ -5,7 +5,7 @@
 
 I'm currently a full-time student in different programs 😄 but let's just say I'm a software engineering student enrolled in the ALX Africa program. I am currently learning C, Python, JS, and SQL, just to mention a few. Ultimately, my goal is to become a highly skilled front-end software engineer and build solutions that help solve world problems.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cnnb01&count_private=true&theme=great-gatsby&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cnnb01&count_private=true&theme=radical&showicons=true)]()
 
 
 
@@ -21,6 +21,6 @@ I'm currently a full-time student in different programs 😄 but let's just say 
 </div>
 
 ### fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Cnnb01&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cnnb01&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
