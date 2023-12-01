@@ -22,7 +22,7 @@ I'm currently a full-time student in different programs 😄 but let's just say 
 </div>
 
 ### :fire: My Stats :
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cnnb01&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
