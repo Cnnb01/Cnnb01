@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
 
@@ -23,7 +24,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="150"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cnnb01&theme=radical" height="150"/>
 </p>
 
@@ -41,6 +42,6 @@
 
 <p align="center">
   <a href="https://github.com/Cnnb01">GitHub</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">Portfolio (Coming Soon)</a>
+  <!-- <a href="#">LinkedIn</a> • -->
+  <!-- <a href="#">Portfolio (Coming Soon)</a> -->
 </p>
