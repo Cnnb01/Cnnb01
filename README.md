@@ -41,7 +41,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Cnnb01">GitHub</a> •
+  <a href="https://github.com/Cnnb01">GitHub</a>
   <!-- <a href="#">LinkedIn</a> • -->
   <!-- <a href="#">Portfolio (Coming Soon)</a> -->
 </p>
