@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charity</h1>
-<h3 align="center">Aspiring Front-End Engineer | ALX Student</h3>
+<h3 align="center">Full-stack Engineer</h3>
 
 <p align="center">
   I’m passionate about building beautiful, functional user interfaces and solving real-world problems through tech.
 </p>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Software Engineering student (ALX Africa)
-- 💡 Currently learning: **C, Python, JavaScript, SQL**
-- 🎯 Goal: Become a highly skilled **Front-End Engineer**
-- 🌍 Interested in building solutions that impact real lives
 
 ---
 
@@ -23,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
 
