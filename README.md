@@ -25,6 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical"/>
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Cnnb01&count_private=true&theme=radical&show_icons=true)
   <!-- ![Anurag's GitHub stats]( <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cnnb01&theme=radical" height="150"/>
 </p>
