@@ -39,12 +39,8 @@
   <a href="https://vitejs.dev/" title="Vite">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/>
   </a>
-  <a href="https://git-scm.com/" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  </a>
-  <a href="https://github.com/" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  </a>
 
   <!-- Database -->
   <a href="https://www.postgresql.org/" title="PostgreSQL">
