@@ -31,15 +31,9 @@
   <a href="https://nodejs.org/" title="Node.js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   </a>
-  <a href="https://expressjs.com/" title="Express">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" title="Django">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  </a>
-  <a href="https://www.python.org/" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  </a>
 
   <!-- Tools -->
   <a href="https://vitejs.dev/" title="Vite">
