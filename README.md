@@ -54,11 +54,10 @@
 </p>
 
 
-### 📊 GitHub Stats & 📈 Top Languages
+### 📊 GitHub Stats and 📈 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="160"/> 
-  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=radical" height="160"/>
 </p>
 
