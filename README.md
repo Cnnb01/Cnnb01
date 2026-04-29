@@ -66,5 +66,5 @@
 <p align="center">
   <a href="https://github.com/Cnnb01">GitHub</a>•
   <a href="https://www.linkedin.com/in/charity-nyamamba/">LinkedIn</a> •
-  <a href="[#](https://portfolio-pi-dun-31.vercel.app/)">Portfolio</a>
+  <a href="https://portfolio-pi-dun-31.vercel.app/">Portfolio</a>
 </p>
