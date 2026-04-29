@@ -56,10 +56,16 @@
 
 ### 📊 GitHub Stats & 📈 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=radical" height="160"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
 
 ### 🤝 Connect With Me
