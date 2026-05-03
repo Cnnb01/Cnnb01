@@ -51,11 +51,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cnnb01&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="160"/> <br/>
 </p>
-### 📊 GitHub Stats 
+
+---
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Cnnb01&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="160"/> <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cnnb01&theme=react-dark"/>
 </p>
 
 ---
