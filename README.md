@@ -56,7 +56,15 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cnnb01&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cnnb01&theme=react-dark"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cnnb01&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
