@@ -49,21 +49,21 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cnnb01&theme=react-light" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=radical" height="160"/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cnnb01&show_icons=true&theme=react-dark" height="160"/> <br/>
 </p>
 
 ---
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cnnb01&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cnnb01&theme=react-dark"/>
 </p>
 
 ---
 
 ###  📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnnb01&layout=compact&theme=react-dark" height="160"/>
 </p>
 
 ---
