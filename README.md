@@ -3,6 +3,7 @@
 
 <p align="center">
   I’m passionate about building beautiful, functional user interfaces and solving real-world problems through tech.
+  Currently learning about model training and integration into functioning applications.
 </p>
 
 ---
